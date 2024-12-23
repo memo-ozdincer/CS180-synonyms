@@ -7,7 +7,7 @@ This is still ungraded, but it passed all test cases
 
 
 ## Project Overview
-A Python-based system that analyzes semantic similarity between words using computational linguistics techniques. The project can answer TOEFL-style synonym questions by computing semantic relationships between words based on their co-occurrence in text.
+A Python-based system that analyzes semantic similarity between words using computational linguistics techniques. The project can synonym questions by computing semantic relationships between words based on their co-occurrence in text.
 
 ## Features
 - Builds semantic descriptors from text files
